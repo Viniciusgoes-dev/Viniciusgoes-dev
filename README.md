@@ -21,3 +21,5 @@ Estudando Javascript, html e css.
 <!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
+
+ ![Snake animation](https://github.com/Viniciusgoes-dev/Viniciusgoes-dev/blob/output/github-contribution-grid-snake.svg)
