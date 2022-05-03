@@ -1,6 +1,6 @@
-### Hello world! i am Vinicius  👋
+### Hello world! eu sou Vinicius  👋
 
-i am studying Javascript, html and css.
+estudando Javascript, html and css.
 
 <div align="center">
   <a href="https://github.com/Viniciusgoes-dev">
